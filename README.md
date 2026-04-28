@@ -13,7 +13,7 @@
 <br/>
 
 ```
-Desenvolvedora Full Stack com background em saúde, vendas e design.
+Desenvolvedora Full Stack em transição.
 Construo aplicações completas com foco em experiência e propósito.
 Cursando Sistemas de Informação · Formação Generation Brasil.
 ```
