@@ -39,8 +39,23 @@ Cursando Sistemas de Informação · Formação Generation Brasil.
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=lohannab&show_icons=true&bg_color=09090d&title_color=c8a96e&text_color=e8e6de&icon_color=7c6f9e&border_color=1c1c26&count_private=true&rank_icon=github"/>
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohannab&layout=compact&bg_color=09090d&title_color=c8a96e&text_color=e8e6de&border_color=1c1c26"/>
+<table>
+<tr>
+
+<td>
+<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lohannab&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=09090d&title_color=c8a96e&text_color=e8e6de&icon_color=7c6f9e"/>
+</td>
+
+<td>
+<img height="150" src="https://streak-stats.demolab.com?user=lohannab&background=09090d&border=1c1c26&ring=c8a96e&fire=c8a96e&currStreakLabel=c8a96e&sideLabels=e8e6de&dates=e8e6de&currStreakNum=ffffff&longestStreakNum=ffffff&sideNums=ffffff"/>
+</td>
+
+<td>
+<img height="130" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lohannab&layout=compact&hide_border=true&bg_color=09090d&title_color=c8a96e&text_color=e8e6de"/>
+</td>
+
+</tr>
+</table>
 
 </div>
 
